@@ -1,0 +1,9 @@
+{
+    "projects": [ 
+        "Module1", 
+        "Module2", 
+
+       "Test.Shared",
+       "Test.Modules"
+     ]
+}
