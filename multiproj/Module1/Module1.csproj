@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <VersionPrefix>1.0.0</VersionPrefix>
+    <AssemblyTitle>Multiproj.Module1</AssemblyTitle>
+    <TargetFramework>netstandard1.3</TargetFramework>
+    <AssemblyName>Module1</AssemblyName>
+  </PropertyGroup>
+
+</Project>
